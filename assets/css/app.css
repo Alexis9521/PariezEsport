@@ -1,0 +1,52 @@
+
+.bottomAccount {
+
+    padding: 5px 120px 5px 120px;
+    border: none;
+    background-color: #6ea8ce;
+    color: white;
+    position: relative;
+
+}
+
+.bottomAccount:focus {
+
+    background-color: red;
+
+}
+
+#navAccount {
+
+    height: 100px;
+
+}
+
+#btn1 {
+
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+
+#btn4 {
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+#navAccount {
+
+    margin-top: 55px;
+
+}
+
+.bottomAccount:hover {
+
+    border-bottom: 2px solid #468cad;
+
+}
+
+
+
+
